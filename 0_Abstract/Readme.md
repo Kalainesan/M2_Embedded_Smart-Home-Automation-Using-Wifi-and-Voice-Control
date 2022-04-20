@@ -1,4 +1,4 @@
-# EMBEDDED SMART HOME AUTOMATION USING WIFI AND VOICE CONTROL#
+# EMBEDDED SMART HOME AUTOMATION USING WIFI AND VOICE CONTROL #
 # *INTRODUCTION*
 * In this project, we will be interfacing 4 channel relay with NodeMCU ESP8266 12E Wifi Module and control 4 different LEDs. 
 * These 4 different LEDs are similar to 4 different Home Appliances. We will use an Android app having 5+5 ON+OFF Buttons to send a signal to NodeMCU in order to control relay output. Every NodeMCU has a particular IP Address. 
