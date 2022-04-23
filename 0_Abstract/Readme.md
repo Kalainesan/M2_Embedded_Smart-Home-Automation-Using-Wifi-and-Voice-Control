@@ -31,3 +31,20 @@
 * Installation plays a crucial role
 * Pins should be configured correctly
 
+## 4-W's & 1-H ##
+
+### WHO ###
+* Useful for everyone
+
+### WHAT ###
+* Smart home automation systems are uniquely designed to suit specific consumers home environments and requirements
+
+### WHEN ###
+* Whenever you need
+
+### WHERE ###
+* It can be used in any home or office environments
+
+### HOW ###
+* There is no need of physical involvement, it will be operated by the voice commands 
+
