@@ -12,3 +12,22 @@
 # SWOT
 
 ![swot analysis](https://user-images.githubusercontent.com/102134305/164883820-5bca14da-0013-485a-8eda-a1f2613dd917.jpg)
+
+## STRENGTH: ##
+* Automatic
+* Accuracy is good
+* Operates differently in different intensities
+
+## WEAKNESS: ##
+* Power is most crucial
+* Sensors should be not covered with any material
+
+## OPPORTUNITIES: ##
+* Come up with a modular and secure Smart Home Solution 
+* Easy to Configure and install without experts
+* We can use freely available IoT communication software protocol
+
+## THREATS: ##
+* Installation plays a crucial role
+* Pins should be configured correctly
+
