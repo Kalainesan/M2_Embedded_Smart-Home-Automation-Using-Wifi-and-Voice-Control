@@ -8,3 +8,7 @@
 * Interoperability-The beauty of an automation system is its ability to tie diverse electronic devices together so they can perform as one unified system. 
 * Expandability-The way you live in your home five years from now will probably be much different than the way you live in your home today. Moreover, technology will continue to evolve, introducing a completely new generation of products to the marketplace.
 * Energy Management-One of the hottest topics in the consumer media is energy conservation. Automation systems can help save energy by turning off electronic devices automatically, and some do this better than others. Be sure to check out the energy-saving features of a system before you buy.
+
+# SWOT
+
+![swot analysis](https://user-images.githubusercontent.com/102134305/164883820-5bca14da-0013-485a-8eda-a1f2613dd917.jpg)
